@@ -14,7 +14,7 @@ spring:
 
 aliyun:
   oss:
-    endpoint: oss-cn-beijing.aliyuncs.com
-    keyId: LTAI5tEYHju6VTNibz2e1oKy
-    keySecret: mrT8e2142L20JS41IIecogtzyUF4Q3
-    bucketName: srb-file-2022721
+    endpoint: ***************
+    keyId: **************
+    keySecret: ***************
+    bucketName: **************
