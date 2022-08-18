@@ -22,10 +22,6 @@
 ## 项目预览
 用户主页
 ![尚融宝](https://gitee.com/xyf03/srb/raw/master/srb/image/srb_3.png "用户主页") 
-后台管理会员列表
-![尚融宝](https://gitee.com/xyf03/srb/raw/master/srb/image/srb_5.png "后台管理会员列表") 
-还款页面
-![尚融宝](https://gitee.com/xyf03/srb/raw/master/srb/image/srb_1.png "还款页面")
 积分等级列表
 ![尚融宝](https://gitee.com/xyf03/srb/raw/master/srb/image/srb_2.png "积分等级列表") 
 投资列表
