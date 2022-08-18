@@ -56,8 +56,8 @@ logging:
 
 #短信配置容联云
 rckj:
-  accountSId: 8aaf070881ad8ad401822047f05a1d27
-  accountToken: 0e1e3a2ba3114c17a051badb459570b8
-  appId: 8aaf070881ad8ad401822047f1291d2e
+  accountSId: *******************
+  accountToken: ************
+  appId: **************
   serverIp: app.cloopen.com  #默认都是这个
   serverPort: 8883  #默认都是这个
